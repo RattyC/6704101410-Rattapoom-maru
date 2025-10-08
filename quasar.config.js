@@ -44,7 +44,7 @@ export default defineConfig((/* ctx */) => {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      publicPath: '/id-name-lastname/',
+      publicPath: '/6704101410-Rattapoom-maru/',
       // analyze: true,
       // env: {},
       // rawDefine: {}
